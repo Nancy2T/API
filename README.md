@@ -16,7 +16,7 @@ https://drive.google.com/file/d/1t_DHKLAsbROh4olQ6aTxoCP-MQrwD8Iq/view?usp=share
 https://drive.google.com/file/d/1GK9piuBacrDYOU7Q1AGdHWhslOxbkVgI/view?usp=share_link 
 
 
-## Баг-репорты
+## Баг-репорты, примеры:
 
 ![image](https://github.com/Nancy2T/API/assets/110238709/23137732-719c-4848-bc30-29352cf81746)
 
